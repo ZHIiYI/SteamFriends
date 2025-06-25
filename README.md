@@ -16,6 +16,7 @@
 
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/feca092e8a8617bf2d63f776dbc578da0e45a736.jpg) | 一抹红W_W     | [76561199525030483](https://steamcommunity.com/profiles/76561199525030483/) | ❌           | 2025-05-10 14:00:42 |          | 2025-06-25 09:37:21 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS  | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2024-12-19 20:24:25 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT       | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2024-12-19 20:24:25 |
 | ![](https://avatars.steamstatic.com/f96be50dc2de59c11300c4e57b6cb687aaea1056.jpg) | 噩梦苍白canbai | [76561198235123752](https://steamcommunity.com/profiles/76561198235123752/) | ✅           | 2022-07-16 13:07:37 |          |                     |
@@ -27,5 +28,4 @@
 | ![](https://avatars.steamstatic.com/83ddbfc84685c2b1b5c28cc15aefdc5baa40a43c.jpg) | 鵼鹀         | [76561198975285291](https://steamcommunity.com/profiles/76561198975285291/) | ✅           | 2025-04-23 15:11:42 |          |                     |
 | ![](https://avatars.steamstatic.com/de7aed4299406a52b01b0fc087ec5eb1d380b7e7.jpg) | Xinghua    | [76561199544066476](https://steamcommunity.com/profiles/76561199544066476/) | ✅           | 2025-04-25 10:23:34 |          |                     |
 | ![](https://avatars.steamstatic.com/177eb84a38599114a6e3912c02af977f9749bf12.jpg) | 宁蒂天下第一     | [76561198819796035](https://steamcommunity.com/profiles/76561198819796035/) | ✅           | 2025-04-25 13:01:18 |          |                     |
-| ![](https://avatars.steamstatic.com/feca092e8a8617bf2d63f776dbc578da0e45a736.jpg) | 一抹红W_W     | [76561199525030483](https://steamcommunity.com/profiles/76561199525030483/) | ✅           | 2025-05-10 14:00:42 |          |                     |
 | ![](https://avatars.steamstatic.com/6c320d932c959087d581db746749514a2084489f.jpg) | Pole Star  | [76561199179472776](https://steamcommunity.com/profiles/76561199179472776/) | ✅           | 2025-06-07 13:29:00 |          |                     |
